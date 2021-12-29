@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Tik Tak Toe Game
+This was my first time using React.js! I built a TikTakToe game following the tutorial provided by React.js(https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
